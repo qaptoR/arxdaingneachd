@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Arx Daingneachd Blog"
 date:   2023-04-07 17:00:00 -0700
-categories: jekyll update
+categories: update
 ---
 blog.arxdaingneachd.org is the public facing narrative expression of my collected knowledge.
 
